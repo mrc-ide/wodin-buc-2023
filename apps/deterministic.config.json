@@ -1,5 +1,6 @@
 {
-  "appType": "basic",
-  "title": "Deterministic",
-  "readOnlyCode": false
+    "appType": "basic",
+    "title": "Deterministic",
+    "readOnlyCode": false,
+    "endTime": 40
 }

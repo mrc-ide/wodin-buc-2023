@@ -1,5 +1,6 @@
 {
     "appType": "stochastic",
     "title": "Stochastic",
-    "readOnlyCode": false
+    "readOnlyCode": false,
+    "endTime": 40
 }
