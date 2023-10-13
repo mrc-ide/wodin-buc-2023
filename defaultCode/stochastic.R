@@ -1,13 +1,13 @@
 # parameters
-N <- user(1e6)
+N <- user(1e4)
 I_init <- user(1)
 beta <- user(4)
 d <- user(0.5)
 
-# The step size, in units of time
+# step size, in units of time
 dt <- 0.01
 
-# Stochastic solution
+# initial conditions
 initial(S) <- N - I_init
 initial(I) <- I_init
 initial(R) <- 0
